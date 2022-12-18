@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @WaveDev-UK
-- I'm a full time Software Engineer from the UK!
+👋 Hi, I’m @WaveDev-UK
+I'm a full time Software Engineer from the UK!
 
-Currently working in:
+Current work:
 - Smarthomes Technology
-- https://stellardev.org
+- Stellar Dev (https://stellardev.org)
 
 ## Languages I use:
 Java, JavaScript, TypeScript, HTML, CSS, C#
